@@ -1,0 +1,4 @@
+requests
+PyMuPDF
+pymupdf4llm
+duckduckgo-search

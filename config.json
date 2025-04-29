@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "circuit-designer": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/path/to/the/parent/folder",
+                "run",
+                "main.py"
+            ]
+        }
+    }
+  }
